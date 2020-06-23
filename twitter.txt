@@ -1,0 +1,4 @@
+access_token: 1274247252186329091-zanioeq9SDRLuZuodAKa1rVAsiVmbo
+access_token_secret: KQpcZJLz8o799meXsj5eyraLU9xX0y8fpiBu8dnK4waPk
+api_key: VgU55hhOZMXevuYcIKBOxMWUA
+api_secret_key: VliANnCPwZxIgawVPhQHqbEmljgDDwbHBx68yiJsR94GcxFnEP
